@@ -60,7 +60,7 @@ header>p {
   padding-right: 10px;
   padding-left: 10px;
   margin: auto;
-  margin-bottom: 30px;
+  padding-bottom: 50px;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 
 }
@@ -149,7 +149,7 @@ main img.pequena {
   margin: auto;
 }
 
-div.video{
+div.video {
   background-color: var(--cor5);
   margin: 0px -20px 30px -20px;
   padding: 20px;
@@ -157,7 +157,7 @@ div.video{
   position: relative;
 }
 
-div.video > iframe{
+div.video>iframe {
   position: absolute;
   top: 5%;
   left: 5%;
